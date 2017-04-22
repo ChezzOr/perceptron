@@ -109,3 +109,5 @@ if __name__ == '__main__':
     #print_network(network)
     for test in tests:
         evaluate(network, test)
+
+    exit(0)
