@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 Tree.py
+python3 ann.py
